@@ -18,10 +18,7 @@ These different professional experiences have allowed me to better understand th
 
 In September 2019, I decided to take a new turn in my professional career by becoming a web trainer. I have been teaching web technologies to students without a diploma and people in retraining. This new activity allowed me to acquire new skills such as pedagogy, group management, support and evaluation.
 
-
-
-
- <img align="right" height="300px" width= "300px" alt="my pic" src="https://irshadmuhammad.fr/img/0.f5215751.jpg"  style="border-radius: 14px 1px 0px 0px"/>
+ <img align="right" height="300px" width= "300px" alt="my pic" src="img/IMG-3958.png"  style="border-radius: 45%"/>
 
 **Skills:**
 
@@ -56,9 +53,9 @@ In September 2019, I decided to take a new turn in my professional career by bec
 
 -----
 
-[![Watch the video](https://img.shields.io/badge/-Play-05122A?style=flat&logo=PLAY)](https://irshadmuhammad.fr/CV.mp4)
+[![Watch the video](img/img.png)](https://irshadmuhammad.fr/CV.mp4)
 
 
-Credits: [Muhammad IRSHAD ](https://github.com/kashifir)
+Credits: [Muhammad IRSHAD](https://github.com/kashifir)
 
 Last Edited on: 07/09/2021
