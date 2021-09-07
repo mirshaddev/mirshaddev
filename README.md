@@ -56,7 +56,7 @@ In September 2019, I decided to take a new turn in my professional career by bec
 
 -----
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://irshadmuhammad.fr/CV.mp4)
+[![Watch the video]](https://irshadmuhammad.fr/CV.mp4)
 
 
 Credits: [Muhammad IRSHAD ](https://github.com/kashifir)
