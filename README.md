@@ -1,14 +1,17 @@
 ### Hey 👋, I'm [Muhammad IRSHAD !](https://github.com/kashifir)
 
-
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Muhamamd IRSHAD LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="www.linkedin.com/in/muhammadirshadim/">
+  <img align="left" alt="Muhamamd IRSHAD LinkdeIN" width="22px" src="https://img.shields.io/badge/-05122A?style=flat&logo=linkedin" />
 </a>
 
-<br />
+<a href="https://www.facebook.com/irshadmuhammad.fr/">
+  <img align="left" alt="Muhamamd IRSHAD FB" width="22px" src="https://img.shields.io/badge/-05122A?style=flat&logo=facebook" />
+</a>
+</br>
+
+&nbsp;\
  <a href="https://irshadmuhammad.fr/" align="left" > My portfolio : irshadmuhammad.fr </a> 
-<br />
-<br />
+
 
 Always passionate about new technologies and the internet, I decided in 2014 to make it my job. For this, I studied web development (Back-end and Front-end) for 3 years. After graduating, I joined a Start Up as a full-stack web developer, then another the following year as CTO.
 
@@ -23,7 +26,7 @@ In September 2019, I decided to take a new turn in my professional career by bec
 **Skills:**
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -42,6 +45,45 @@ In September 2019, I decided to take a new turn in my professional career by bec
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)\
 ![Adobexd](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobexd)
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=white")
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&logoColor=white")
+
+** Com :**
+
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack&logoColor=white")
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord&logoColor=white")
+
+
+![Muhammad IRSHAD GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashifir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27)
+
+
+### My Projects :
+
+<a href="https://github.com/kashifir/garagevue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashifir&repo=garagevue&theme=tokyonight" />
+</a>
+&nbsp;
+
+<a href="https://github.com/kashifir/portfolio-muhammad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashifir&repo=portfolio-muhammad&theme=tokyonight" />
+</a>
+
+&nbsp;
+
+
+<a href="https://github.com/kashifir/kashifir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashifir&repo=kashifir&theme=tokyonight" />
+</a>
+
+
+### Most Tops Langs
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27" />
+<img aling="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kashifir&theme=tokyonight" />
+
+</br>
+
+
 
 
 - 💬 Ask me about anything, I am happy to help
