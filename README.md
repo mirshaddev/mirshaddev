@@ -26,32 +26,48 @@ In September 2019, I decided to take a new turn in my professional career by bec
 **Skills:**
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
+![webpack](https://img.shields.io/badge/-webpack-05122A?style=flat&logo=webpack)&nbsp;
+
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHp](https://img.shields.io/badge/-Php-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
+![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
+
+![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
+![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
+
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
+![Adobexd](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobexd)&nbsp;
+
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=white")&nbsp;
+![nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=white")&nbsp;
+
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)\
-![Adobexd](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobexd)
-![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=white")
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&logoColor=white")
 
-** Com :**
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&logoColor=white")&nbsp;
 
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack&logoColor=white")
-![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord&logoColor=white")
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHP strom](https://img.shields.io/badge/-Phpstrom-05122A?style=flat&logo=phpstorm&logoColor=white")&nbsp;
+
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack&logoColor=white")&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord&logoColor=white")&nbsp;
+
+
 
 
 ![Muhammad IRSHAD GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashifir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27)
