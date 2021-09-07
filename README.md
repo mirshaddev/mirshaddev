@@ -1,11 +1,15 @@
 ### Hey 👋, I'm [Muhammad IRSHAD !](https://github.com/kashifir)
 
 <a href="www.linkedin.com/in/muhammadirshadim/">
-  <img align="left" alt="Muhamamd IRSHAD LinkdeIN" width="22px" src="https://img.shields.io/badge/-05122A?style=flat&logo=linkedin" />
+  <img align="left" alt="Muhamamd IRSHAD LinkdeIN" width="100px" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" />
 </a>
 
 <a href="https://www.facebook.com/irshadmuhammad.fr/">
-  <img align="left" alt="Muhamamd IRSHAD FB" width="22px" src="https://img.shields.io/badge/-05122A?style=flat&logo=facebook" />
+  <img align="left" alt="Muhamamd IRSHAD FB" width="100px" src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" />
+</a>
+
+<a href="https://discord.gg/sEScHfpVTr/">
+  <img align="center" alt="Discord server dev" width="100px" src="https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord" />
 </a>
 </br>
 
@@ -27,6 +31,7 @@ In September 2019, I decided to take a new turn in my professional career by bec
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -98,6 +103,15 @@ In September 2019, I decided to take a new turn in my professional career by bec
 <img aling="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kashifir&theme=tokyonight" />
 
 </br>
+&nbsp;
+&nbsp;
+
+</br>
+
+&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;
 
 
 
