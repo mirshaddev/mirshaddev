@@ -17,7 +17,7 @@
  <a href="https://irshadmuhammad.fr/" align="left" > My portfolio : irshadmuhammad.fr </a> 
 
 
-Always passionate about new technologies and the internet, I decided in 2014 to make it my job. For this, I studied web development (Back-end and Front-end) for 3 years. After graduating, I joined a Start Up as a full-stack web developer, then another the following year as CTO.
+Always passionate about new technologies and the internet, I decided in 2014 to make it my job. For this, I studied web development (Back-end and Front-end) for 3 years. After graduating, I joined a Start Up as a full-stack web developer,
 
 After several years of activity and projects under my belt, I wanted to become independent. It was therefore in September 2018 that I started freelancing in order to be able to intervene in a greater number of fields of activity.
 
