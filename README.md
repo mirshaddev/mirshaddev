@@ -49,24 +49,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
----
-
-## 💼 Expériences Clés
-
-- **Développeur Full Stack @ Comellink**  
-  Plateforme de gamification bancaire | Symfony, NestJS, Next.js, CI/CD Docker  
-  > ➤ Développement d’APIs, dashboard UI et infrastructure Dockerisée.
-
-- **Développeur Back-End @ KA CORP**  
-  Site e-commerce Symfony avec intégration Stripe et back-office complet.
-
-- **Développeur Web / IoT @ Secteur Agricole**  
-  App métier de suivi capteurs humidité + gestion client (Symfony + Node.js + Vue.js)
-
-- **Formateur Web @ Digital France School**  
-  Formation de publics en reconversion (HTML, CSS, JS, Vue, Node, SQL...)
-
----
 
 ## 🔗 Liens
 
